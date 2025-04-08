@@ -1,6 +1,4 @@
-Got it! Here’s an updated version of the **README.md** file with all the metrics you mentioned (**PSNR**, **SSIM**, **Perceptual Similarity**, **FID**, **IS**, **KID**, and **LPIPS**) included:
 
----
 
 # Stable Diffusion Model: CIFAR-10 & DIV2K Training
 
